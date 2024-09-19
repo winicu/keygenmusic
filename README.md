@@ -9,5 +9,5 @@ A full backup of keygenmusic.org. <br>
 ## How to use
 ### Windows
 Please download [OpenMPT](https://openmpt.org/) to open `.xm/.s3m/.mod/.it` music files.  <br>
-For `.midi` files, it's recommended to use Windows Media Player.<br>
+For `.mid` files, it's recommended to use Windows Media Player.<br>
 **It's NOT recommended to use Furnace, as it's more focus on the chiptune side, and there are pieces KNOWN breaks with Furnace.** <br>
